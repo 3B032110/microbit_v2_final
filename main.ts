@@ -47,8 +47,8 @@ ESP8266ThingSpeak.connectWifi(
 SerialPin.P13,
 SerialPin.P12,
 BaudRate.BaudRate115200,
-"ASUS_Yomisana",
-"Maciphone510"
+"劉軒宏的iPhone",
+"AMz7-OGj5-nGKp-AtYU"
 )
 basic.showLeds(`
     # # # . #
